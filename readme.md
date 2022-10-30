@@ -1,4 +1,5 @@
 ## Use mmsegmentation to do mri semantic segmentation
+### miou up to 82.98%
 ------------+-------+-------+
 
 |   Class    |  IoU  |  Acc  |
